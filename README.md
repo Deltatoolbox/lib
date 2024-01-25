@@ -28,11 +28,12 @@ our lib, not for use
   - [ ] get cookies
   - [ ] get history
   - [ ] get downloads with links
+  - [ ] block websites
 
 </details>
 
 <details>
-  <summary><b>hid-control</b></summary>
+  <summary><b>HID-Control</b></summary>
 
   - [ ] keyboard emulate
   - [ ] mouse emulate
@@ -42,7 +43,7 @@ our lib, not for use
 </details>
 
 <details>
-  <summary><b>botting</b></summary>
+  <summary><b>Botting</b></summary>
 
   - [ ] kahoot bot
   - [ ] website bot basics
@@ -51,7 +52,7 @@ our lib, not for use
 </details>
 
 <details>
-  <summary><b>PC-control</b></summary>
+  <summary><b>PC-Control</b></summary>
 
   - [ ] execute command
   - [ ] start applications
@@ -64,6 +65,21 @@ our lib, not for use
   - [ ] block process
   - [ ] keylogger
   - [ ] filter things
+  - [ ] delete files
+  - [ ] spam keys
+  - [ ] move mouse
+  - [ ] install apps
+  - [ ] shutdown
+  - [ ] get process list
+  - [ ] blue screen of death
+  - [ ] check admin
+  - [ ] geo locate
+  - [ ] fork bomb
+  - [ ] ransomeware
+  - [ ] read copy list
+  - [ ] jumpscare
+  - [ ] play mp3 file
+  - [ ] trun on/off monitores
 
 </details>
 
@@ -82,7 +98,7 @@ our lib, not for use
 </details>
 
 <details>
-  <summary><b>exfiltration</b></summary>
+  <summary><b>Exfiltration</b></summary>
 
   - [ ] send to discord webhook
   - [ ] send email
