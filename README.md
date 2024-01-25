@@ -79,15 +79,15 @@ our lib, not for use
   - [ ] read copy list
   - [ ] jumpscare
   - [ ] play mp3 file
-  - [ ] trun on/off monitores
+  - [ ] turn on/off monitores
 
 </details>
 
 <details>
   <summary><b>Images</b></summary>
 
-  - [ ] take screenshot
-  - [ ] take webcam photo
+  - [x] take screenshot
+  - [x] take webcam photo
   - [ ] remove background
   - [ ] replace pixel
   - [ ] down scale
