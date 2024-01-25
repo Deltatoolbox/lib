@@ -1,7 +1,5 @@
 import os
 
-#hallo
-#noe
 name = 'D'
 counter = 0
 c = 0
