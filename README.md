@@ -5,7 +5,7 @@ our lib, not for use
 <details>
   <summary><b>Network-Control</b></summary>
 
-  - [ ] get IP
+  - [x] get IP
   - [ ] get IP config
   - [ ] get open connections
   - [ ] speedtest
